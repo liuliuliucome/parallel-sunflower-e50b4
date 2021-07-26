@@ -30,8 +30,6 @@ models:
         label: Tags
         items:
           type: string
-      - name: ''
-        type: string
   page_1:
     type: page
     label: Page 1
