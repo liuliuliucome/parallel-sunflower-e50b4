@@ -9,14 +9,14 @@
             </a>
             {% endunless %}
             {% unless site.email == %}
-            <a id="contact-button" href="mailto:leeoyos@gmail.com"
+            <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fas fa-envelope"></i>发送邮件
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
-            <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
+            <a id="contact-button" href="#"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fab fa-weixin"></i>微信leeoyos
