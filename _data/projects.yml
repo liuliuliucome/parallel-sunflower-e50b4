@@ -1,10 +1,10 @@
 - name: 大未来
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg
   link:
   description: 绿洲首席法师, 频繁霸榜
 - name: 武僧叔
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-monk-brewmaster.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-monk-brewmaster.jpg
   description: 魔都打工人一枚，扣脚彩笔武僧一只，可dota鱼塘遨游，可大米翻车超时，曾经的三轮车车头（备注：武僧只有踏风！！！！！！！！！）
 - name: 痛苦女王丶
   link:
@@ -12,28 +12,28 @@
   description: 群唯一弟弟，每天被各种二代秀的x都飞了，DOTA21000分菜鸡，喜欢玩qop,喜欢b脸送整蛊
 - name: 歪锐咕德
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-druid-restoration.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-druid-restoration.jpg
   description: 公会最帅的比，六年老军医，大米我还是老老实实玩我的咕咕吧，团本第一替补唯一坐骑党，支持金币投喂
 - name: 虔誠丶
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-priest-shadow.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-priest-shadow.jpg
   description: 这是与他们一起的第七个年头。大凡有所成于这世上的人，都离不开三分人事，七分天意。天意使我们识得，人事让我们一直相处。阴阳怪气的截图嘲讽dps；清小怪躲在后面假装不在；因为过了尾王你争我抢排队合影；因为差那么一丝血灭团气的破口大骂摔鼠标……人事与天意让这些人这些事此刻依旧继续。我是这些人中的一个牧师，以后也是你们中的一个牧师。
 绿洲是一个始终有梦想的地方。不管是曾经不顾一切的冲进度，亦或是为了yy那此起彼伏的笑。曾有一段，我觉得我们的梦想听起来有些可笑，是“手可摘星辰”似的谎话，是属于盲目理想的文青或不经世事的楞头青。它煽动和催化你的热情，鼓励你伸手、攀岩，然后可笑的发现一无所有。其实不然，在这条版本更迭的路上，那些人，才是梦想，才是宝藏。
 - name: 随遇丶
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg
   description: 第一次玩法师，争取dps不垫底！大米缺人随叫随到。
 - name: 九重樱
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-shaman-elemental.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-shaman-elemental.jpg
   description: 打本狂魔    喜欢打本的过程     坐骑全送—.—  不太习惯开麦说话  喜欢安安静静听人吹比
 - name: 冷滩刘勇
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg
   description: 第一次玩法师，大锅吞噬者，战士的爸爸
 - name: 橙皇
   link:
-  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-warrior-arms.jpg?maxWidth=1630
+  image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-warrior-arms.jpg
   description: 战士是种信仰 眼里只有冲锋 DPS 随缘 
   
   
