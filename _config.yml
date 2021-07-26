@@ -1,14 +1,14 @@
 markdown: kramdown
 url: ''
 baseurl: ''
-title: What A Theme
-description: A customizable Jekyll portfolio theme
+title: 绿洲
+description: 纯粹的游戏氛围
 site-image: /WhatATheme/assets/images/meta.jpg
-site-keywords: 'Site, Template, Theme'
+site-keywords: 'wow, nga, 魔兽, 手法, WOW宏, 魔兽宏'
 favicon-url: null
 heroimage: >-
   https://images.unsplash.com/photo-1612980848349-3e3e98730014?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
-email: thedevslot@gmail.com
+email: leeoyos@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
@@ -21,11 +21,11 @@ dribbble_username: /
 spotify_username: /
 google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
-author-name: TheDevsLot
+author-name: 绿洲
 author-image: >-
   https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 author-about: >-
-  CN
+  心态成熟, 氛围轻松的游戏团队
 author-url: 'https://github.com/thedevslot'
 sass:
   sass_dir: _sass
