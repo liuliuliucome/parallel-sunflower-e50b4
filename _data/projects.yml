@@ -25,7 +25,7 @@
 - name: 九重樱
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-shaman-elemental.jpg
-  description: 打本狂魔    喜欢打本的过程     坐骑全送—.—  不太习惯开麦说话  喜欢安安静静听人吹比
+  description: 萝莉控
 - name: 冷滩刘勇
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-mage-fire.jpg
@@ -62,14 +62,22 @@
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-rogue-outlaw.jpg
   description: 毒瘤瓜的监护人以及监督者。
-- name: 豪哥的鸡肉饭
+- name: 牛肉丸
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-druid-balance.jpg
-  description: 不是豪哥，也不是牛肉饭
+  description: 习惯暗中观察
 - name: 魔化萨满
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-shaman-enhancement.jpg
   description: 大米幻神，毁天灭地，掌控雷电，恐怖如斯；团本隐身，看不见人，突然暴毙，最后出本
+- name: 我要飞天丶
+  link:
+  image: https://wow.zamimg.com/images/content/short-headers/retail/categories/classes-death-knight.jpg
+  description: 我是真的想飞天。
+- name: 晴天小傻瓜
+  link:
+  image: https://wow.zamimg.com/images/content/short-headers/retail/categories/classes-shaman-restoration.jpg
+  description: 低调的犯错，打枪的不要。
 - name: 景禾
   link:
   image: https://wow.zamimg.com/images/content/tall-headers/retail/categories/classes-demon-hunter-havoc.jpg
